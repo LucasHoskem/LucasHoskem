@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LucasHoskem
+- 👀 I’m interested in aprender Javascript e me aprofundar no que estou aprendendo no momento.
+- 🌱 I’m currently learning CSS e HTML
+- 💞️ estou procurando colaborar aonde eu puder, sou novo na  área mas acho tudo muito interessante, quero evoluir sempre mais :)
+- 📫 Como me chamar? Tenho todas as redes sociais, Instagram, Twitter, e tenho um email próprio para assuntos sobre programação:
+- devlucas2006@gmail.com
